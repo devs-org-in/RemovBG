@@ -1,8 +1,5 @@
-# RemovBG
+![removbg-banner](https://github.com/user-attachments/assets/38715511-a4e5-4fb6-8de0-4e4aaae5b7ec)
 
-RemovBG - Image Background Remover powered by the RMBG V1.4 model from BRIA AI [Transformers.js]
-
-# Description
 
 RemovBG is a simple web application that allows users to remove the background of their images using the RMBG V1.4 model from BRIA AI. The application is built using Transformers.js and offers a user-friendly interface for quick and easy background removal.
 
